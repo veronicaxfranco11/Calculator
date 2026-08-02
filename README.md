@@ -23,6 +23,6 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 
 ## Technologies Used
 
-- HTML5
+- HTML
 - CSS3
 - JavaScript 
