@@ -26,7 +26,3 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 - HTML5
 - CSS3
 - JavaScript 
-
-**Veronica Franco**
-
-GitHub: https://github.com/veronicaxfranco11
